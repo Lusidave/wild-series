@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+body {
+    background-color: #f69f1e;
+}
+$theme-colors: (
+        "primary": #f69f1e !important,
+        "secondary": #ac55ea !important,
+        "success": #36e789 !important,
+        "bg-primary": #f69f1e !important,
+        "bg-secondary": #ac55ea !important,
+        "bg-success": #36e789 !important,
+
+);
